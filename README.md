@@ -1,7 +1,7 @@
 # Network-config
 Natuurlijk! Hier is wat je in je GitHub repository moet zetten:
 
-### 1. Router Configuratie (router-config.txt)
+### 1. Router Configuratie 
 ```plaintext
 hostname Router
 !
@@ -26,7 +26,7 @@ enable secret cisco123
 !
 ```
 
-### 2. Switch Configuratie (switch-config.txt)
+### 2. Switch Configuratie 
 ```plaintext
 hostname Switch1
 !
