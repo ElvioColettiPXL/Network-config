@@ -1,6 +1,4 @@
 # Network-config
-Switch en Router basis config 
-
 
 1. Router Configuratie (router-config.txt)
 
